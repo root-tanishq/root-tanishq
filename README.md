@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**root-tanishq/root-tanishq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tanishq ,newbie in cybersecurity
+[twitter](https://twitter.com/root_tanishq)
 
-Here are some ideas to get you started:
+[Linkedin](https://www.linkedin.com/in/tanishq-rathore-115033202/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[youtube](https://www.youtube.com/channel/UC0HLRnmOx3x_hsAGAdG9VaQ)
+
+[Blogs](https://tanishqrathore.medium.com/)
+
+[Github](https://github.com/root-tanishq)
+
+[Github.io](https://root-tanishq.github.io)
+
+
+
+<img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=root-tanishq&show_icons=true&hide_border=true" />
+
