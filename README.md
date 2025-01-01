@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I am Tanishq Rathore , security researcher working mostly on Android and Web 
-
-Connect to me through twitter [@root_tanishq](https://twitter.com/root_tanishq)
+I am Tanishq , I hack web2 (website + Mobile Application) and web3 (Ethereum smart contracts)
+Connect to me through twitter [@tanishqsec](https://twitter.com/tanishqsec)
 
